@@ -11,3 +11,5 @@ Siguiendo la consigna del TP 3 se deben reflejar los siguientes cambios:
 3. Considerando que los Utensilio's se comparten entre todos los Chef's deberá implementarse un esquema Productor/Consumidor para el caso en que 2 o mas Chef's necesiten la utilización del mismo recurso.
 
 4. Si un Chef encuentra un recurso bloqueado podrá continuar con otra Receta pendiente hasta que se desocupe el recurso que necesita.
+
+5. Construir una rama diferente a partir de lo anterior donde se implemente el mismo proyecto pero usando Maven
